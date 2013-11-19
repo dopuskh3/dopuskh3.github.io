@@ -4,16 +4,13 @@ paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 
-title: dbyll
+title: Dopuskh3
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: asd123
-  pinterest: asd123
-  linkedin: asd123
-  resume: asd123
-  bio: Your stylish, minimalist theme!
+  name: dopuskh3
+  email: f.visconte@gmail.com
+  github: dopuskh3
+  twitter: dopuskh3
+  bio: My github notepad
   email_md5: 726351295ec82e145928582f595aa3aa
   
 BASE_PATH: /
